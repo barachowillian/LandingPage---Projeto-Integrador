@@ -60,7 +60,7 @@ Durante a preparação do Mapa da empatia, foi analisado que cada um do grupo co
 
 --- 
 
-![Imagem do Mapa da Empatia sobre a Perona - Agatha.](img/image.png)
+![Imagem do Mapa da Empatia sobre a Persona - Agatha.](img/image.png)
 
 ## Tecnologias Utilizadas
 - HTML5  
