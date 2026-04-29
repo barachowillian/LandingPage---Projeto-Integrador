@@ -57,6 +57,9 @@ Durante a preparação do Mapa da empatia, foi analisado que cada um do grupo co
 ### Mapa da empatia (Feito pelo grupo Geral) + Persona 
 
 - O mapa da empatia da persona Agatha Bonini ajudou a entender melhor sua rotina, sentimentos e desafios. Ele mostra uma jovem determinada, que equilibra trabalho e estudos enquanto enfrenta inseguranças e preconceitos, mas segue firme em busca dos seus objetivos. A análise também evidencia suas dores, como a falta de aceitação, e seus ganhos, como o desejo por respeito e oportunidades. Com isso, o mapa foi essencial para orientar o projeto de forma mais realista e alinhada à sua vivência.
+
+--- 
+
 ![Imagem do Mapa da Empatia sobre a Perona - Agatha.](img/image.png)
 
 ## Tecnologias Utilizadas
