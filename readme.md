@@ -48,7 +48,7 @@ Foram analisados sentimentos, dores e necessidades da comunidade, como:
 ---
 
 ### Pesquisa Realizada
-- Total de participantes: 37  
+- Total de participantes: 36 
 - Resultado: a maioria reconhece a existência de preconceito e falta de informação  
 
 ---
@@ -60,7 +60,7 @@ Foram analisados sentimentos, dores e necessidades da comunidade, como:
 ---
 
 ## Equipe do Projeto
-- Willian Baracho (responsável pelo desenvolvimento)  
+- Willian Baracho  
 - Yasmim Faria  
 - Ana Matos  
 - Sabrina Cardoso  
