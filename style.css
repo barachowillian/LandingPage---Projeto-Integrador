@@ -26,10 +26,18 @@ header {
     padding: 80px 20px;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 48px;
-    font-family: 'Major Mono Display', monospace;
+.header-logo {
+    max-width: 250px;
+    height: auto;
+    margin: 0 auto 20px auto;
+    display: block;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 header p {
@@ -121,6 +129,14 @@ img, video {
     flex-direction: column;
     text-align: center;
     padding: 5px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.cor-box:hover {
+    transform: scale(1.15) rotate(2deg);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    z-index: 10;
 }
 
 .cor-box span {

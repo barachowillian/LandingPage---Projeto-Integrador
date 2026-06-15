@@ -1,82 +1,68 @@
 # TransLaço – Projeto Integrador
 
-## Sobre o Projeto
-O TransLaço é uma plataforma digital desenvolvida com o objetivo de dar visibilidade à realidade de pessoas trans e travestis, destacando seus desafios, vivências e a importância da inclusão social.
-
-O projeto busca promover informação, respeito e oportunidades, contribuindo para a construção de uma sociedade mais justa e igualitária.
+O TransLaço é uma plataforma digital de impacto social, desenvolvida para ser a ponte entre a comunidade trans/travesti e o mercado de trabalho formal. O projeto une tecnologia web moderna com uma profunda investigação social para combater a exclusão e promover a empregabilidade.
 
 ---
 
-## Objetivo
-Desenvolver um site acessível voltado à promoção de cursos profissionalizantes, oportunidades de emprego inclusivas e à construção de um ambiente acolhedor, onde pessoas trans e travestis se sintam valorizadas e inseridas no mercado de trabalho formal.
+## Visão do Projeto
+Diferente de um site comum, o TransLaço foi construído sob a ótica da Empatia. Cada funcionalidade foi desenhada para responder a uma dor real identificada na pesquisa de campo realizada pelo grupo.
+
+## Funcionalidades de Destaque
+- **Interface Inclusiva:** Design focado em acessibilidade e acolhimento.
+- **Ecossistema de Apoio:** Espaço para cursos, vagas e suporte jurídico/trabalhista.
+- **Feedback Visual:** Animações inteligentes (CSS Hover Effects) que melhoram a experiência do usuário.
 
 ---
 
-## Proposta
-Criar uma plataforma digital acessível e informativa, que ofereça:
-- Conteúdos educativos  
-- Apoio à comunidade  
-- Divulgação de vagas de emprego inclusivas  
-- Cursos profissionalizantes  
+## Stack Técnica e Design
 
-Com foco na inclusão de pessoas trans e travestis no mercado de trabalho.
+### Desenvolvimento Web
+- **HTML5 Semântico:** Para melhor ranqueamento em buscas e acessibilidade.
+- **CSS3 Avançado:** Uso de Variáveis, Gradientes Complexos e Animações de Transformação.
+- **Tipografia Google Fonts:** Integração de fontes modernas (Major Mono Display, Oswald, Poppins, Merriweather).
 
----
-
-## Desenvolvimento do Projeto
-
-### Investigação do Problema
-O projeto foi desenvolvido a partir da análise das dificuldades enfrentadas por pessoas trans e travestis, como:
-- Preconceito  
-- Falta de oportunidades  
-- Exclusão social  
+### Identidade Visual (Brand Guidelines)
+| Cor | Hex | Significado |
+| :--- | :--- | :--- |
+| **Azul Claro** | `#5BC0EB` | Liberdade e Identidade |
+| **Rosa** | `#F7A1C4` | Afeto e Visibilidade |
+| **Roxo** | `#9B5DE5` | Criatividade e União |
+| **Marinho** | `#0A1A3B` | Profissionalismo e Segurança |
 
 ---
 
-### Técnica dos 5 Porquês
-Utilizada para identificar a raiz do problema, destacando a falta de informação e inclusão como fatores principais.
+## Inteligência de Dados (Research)
+
+### Metodologia: 5 Porquês e Design Thinking
+O processo de criação focou na investigação da causa raiz:
+1. **Problema:** Baixa contratação de pessoas trans.
+2. **Causa Raiz:** Preconceito estrutural e falta de canais seguros de conexão.
+
+### Resultados da Pesquisa (N=36)
+- **97,2%** dos respondentes percebem o preconceito social.
+- **77,8%** confirmam a barreira no emprego formal.
+- **86,1%** exigem práticas mais inclusivas nas empresas.
 
 ---
 
-### Mapa da Empatia (Individual de cada integrante do Grupo) 
-Durante a preparação do Mapa da empatia, foi analisado que cada um do grupo colocou algo parecido, como:
-- Medo e insegurança  
-- Falta de representatividade  
-- Exclusão social  
-- Busca por aceitação e respeito  
+## Persona: Agatha Bonini
+O projeto é dedicado a pessoas como Agatha: jovens, negras, trans e determinadas. O site foi estruturado através do seu Mapa da Empatia, garantindo que a comunicação e as funcionalidades atendam às necessidades reais do público-alvo.
 
 ---
 
-### Pesquisa Realizada
-- Total de participantes: 36 
-- Resultado: a maioria reconhece a existência de preconceito e falta de informação  
- - Foram obtidas 36 respostas, com cerca de 70% dos participantes entre 15 e 18 anos. As demais faixas etárias também aparecem, sendo 13,9% entre 19 e 25 anos, 8,3% entre 26 e 35 anos e uma pequena parcela acima dessa idade, indicando predominância de público jovem na pesquisa.
-
- - A análise da identidade de gênero mostra que a maioria dos respondentes se identifica como mulher cisgênero (63,9%), seguida por homens cisgênero (33,3%). As demais identidades aparecem com baixa representatividade, indicando que a amostra é majoritariamente composta por pessoas cisgênero, o que influencia a interpretação dos dados sobre a comunidade trans.
-
- - Diante disso, os dados evidenciam que a maioria dos respondentes é composta por pessoas cisgênero, o que contribuiu diretamente para a percepção do projeto. Essa predominância será fundamental na construção da persona e do mapa da empatia, pois ajuda a identificar possíveis lacunas de compreensão e reforça a importância de representar, de forma mais fiel, as vivências da comunidade trans.
-
-### Mapa da empatia (Feito pelo grupo Geral) + Persona 
-
-- O mapa da empatia da persona Agatha Bonini ajudou a entender melhor sua rotina, sentimentos e desafios. Ele mostra uma jovem determinada, que equilibra trabalho e estudos enquanto enfrenta inseguranças e preconceitos, mas segue firme em busca dos seus objetivos. A análise também evidencia suas dores, como a falta de aceitação, e seus ganhos, como o desejo por respeito e oportunidades. Com isso, o mapa foi essencial para orientar o projeto de forma mais realista e alinhada à sua vivência.
-
---- 
-
-![Imagem do Mapa da Empatia sobre a Persona - Agatha.](img/image.png)
-
-## Tecnologias Utilizadas
-- HTML5  
-- CSS3  
+## Planejamento Futuro (Roadmap)
+Funcionalidades planejadas para as próximas etapas:
+- Sistema de Login com Nome Social.
+- Painel de Vagas em Tempo Real.
+- Chatbot de Suporte Jurídico.
 
 ---
 
 ## Equipe do Projeto
-- Willian Baracho  
-- Yasmim Faria  
-- Ana Matos  
-- Sabrina Cardoso  
+- Willian Baracho
+- Yasmim Faria
+- Ana Matos
+- Sabrina Cardoso
 
 ---
-
-## Ano
-2026
+*Projeto Integrador - 2026*
