@@ -48,12 +48,9 @@ Durante a preparação do Mapa da empatia, foi analisado que cada um do grupo co
 ---
 
 ### Pesquisa Realizada
-<<<<<<< HEAD
 - Total de participantes: 36 
 - Resultado: a maioria reconhece a existência de preconceito e falta de informação  
-=======
  - Foram obtidas 36 respostas, com cerca de 70% dos participantes entre 15 e 18 anos. As demais faixas etárias também aparecem, sendo 13,9% entre 19 e 25 anos, 8,3% entre 26 e 35 anos e uma pequena parcela acima dessa idade, indicando predominância de público jovem na pesquisa.
->>>>>>> 7dbeb1b3e8a6c69307c7ef918796e2b5af88b41e
 
  - A análise da identidade de gênero mostra que a maioria dos respondentes se identifica como mulher cisgênero (63,9%), seguida por homens cisgênero (33,3%). As demais identidades aparecem com baixa representatividade, indicando que a amostra é majoritariamente composta por pessoas cisgênero, o que influencia a interpretação dos dados sobre a comunidade trans.
 
